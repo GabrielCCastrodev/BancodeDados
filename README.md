@@ -1,2 +1,2 @@
 # BancodeDados
-Repositório para registrar Atividades realizadas referentes a banco de dados
+Repositório para registrar atividades referentes a banco de dados
